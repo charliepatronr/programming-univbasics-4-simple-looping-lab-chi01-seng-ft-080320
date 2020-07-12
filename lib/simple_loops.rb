@@ -1,9 +1,9 @@
 
 
 def loop_meesage_five_times(message)
-  counter = 1
+  counter = 0
   
-  while counter <=5 do
+  while counter <=4 do
     puts message
     counter += 1
   end   
@@ -13,7 +13,7 @@ end
 def loop_meesage_n_times(message, int)
   counter = 0
   
-  while counter < int do 
+  while counter <= int do 
     puts message
     counter += 1
   end
