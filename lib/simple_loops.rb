@@ -14,5 +14,10 @@ def loop_meesage_n_times(message, int)
   
   while counter <= int do 
     puts message
-  end 
+  end
 end 
+
+
+def output_array(array)
+end 
+
