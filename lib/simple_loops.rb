@@ -1,6 +1,6 @@
 
 
-def loop_meesage_five_times(message)
+def loop_message_five_times(message)
   counter = 0
   
   while counter <=4 do
@@ -10,7 +10,7 @@ def loop_meesage_five_times(message)
 end
 
 
-def loop_meesage_n_times(message, int)
+def loop_message_n_times(message, int)
   counter = 0
   
   while counter <= int do 
