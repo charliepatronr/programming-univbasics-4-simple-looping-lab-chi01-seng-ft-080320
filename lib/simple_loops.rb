@@ -5,6 +5,7 @@ def loop_meesage_five_times(message)
   
   while counter <=4 do
     puts message
+    counter += 1
   end   
 end
 
@@ -30,4 +31,6 @@ end
 def return_string_array(array)
   new_arr = []
   counter = 0 
+  
+  while counter
 end
