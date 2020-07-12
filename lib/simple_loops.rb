@@ -7,3 +7,7 @@ def loop_meesage_five_times(message)
     puts message
   end   
 end
+
+
+def loop_meesage_n_times(message, int)
+end 
