@@ -10,4 +10,5 @@ end
 
 
 def loop_meesage_n_times(message, int)
+  counter = int
 end 
