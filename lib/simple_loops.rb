@@ -35,5 +35,7 @@ def return_string_array(array)
   counter = 0 
   
   while counter < array.length do 
-    new_arr.push(array[counter].to
+    new_arr.push(array[counter].to_s)
+  end
+  new_arr
 end
