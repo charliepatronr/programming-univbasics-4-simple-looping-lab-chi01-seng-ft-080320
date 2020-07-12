@@ -1,5 +1,5 @@
 
 
-def loop_meesage_five_times 
+def loop_meesage_five_times(message)
   
 end
